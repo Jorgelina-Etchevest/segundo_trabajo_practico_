@@ -1,0 +1,1 @@
+Este archivo ya no está vacio. En el master es un archivo de txt sin nada y en la rama nueva está este escrito de prueba. 
